@@ -12,6 +12,8 @@ the Noise Level. This algorithm is based on "Ganesan, G.Maragatham & Roomi, Mans
 (2015). Noise Detection in Images using Moments. Research Journal 
 of Applied Sciences, Engineering and Technology. 10. 307-314. 
 10.19026/rjaset.10.2492"
+
+
 ![Capturehigh](https://github.com/pranava1709/Image_Noise_Detection_using_Fourth_Central_Moment-in-Frequency_Domain/assets/60814171/b2eb01b3-fdd1-4909-a88b-47d8c707597b)
 
 ![Capturemed](https://github.com/pranava1709/Image_Noise_Detection_using_Fourth_Central_Moment-in-Frequency_Domain/assets/60814171/8f9f18df-eb02-4a9c-bebd-8171d57fcc5c)
